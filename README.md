@@ -6,3 +6,5 @@ Note that the chapter links and souce links will not work when opened as a file 
 Just unzip it and then your good to go.
 
 Created by JacobHumston, all sources are commented in the code.
+
+I don't own any of the images used.
